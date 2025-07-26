@@ -25,7 +25,7 @@ const Navbar = () => {
               </li>
             ))}
           </ul>
-          <div className=" hidden lg:flex justify-center space-x-12 items-center">
+          <div className="hidden lg:flex justify-center space-x-12 items-center">
             <a href="#" className="py-2 px-3 border rounded-md">
               Sign In
             </a>
