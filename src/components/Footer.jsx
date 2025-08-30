@@ -34,7 +34,7 @@ const Footer = () => {
           </ul>
         </div>
         <div>
-          <h3 className="text-md font-semibold mb-4">Community</h3>
+          <h3 className=" text-md font-semibold mb-4">Community</h3>
           <ul className="space-y-2">
             {communityLinks.map((link, index) => (
               <li key={index}>
